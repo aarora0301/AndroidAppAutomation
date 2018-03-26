@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110398" started-at="2017-09-18T21:30:12Z" finished-at="2017-09-18T21:32:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110398" started-at="2017-09-18T21:30:12Z" finished-at="2017-09-18T21:32:02Z">
+      <class name="com.astro.view.demo.AppTest">
+        <test-method status="PASS" signature="initiateDriver()[pri:0, instance:com.astro.view.demo.AppTest@1e88b3c]" name="initiateDriver" is-config="true" duration-ms="12726" started-at="2017-09-19T03:00:12Z" finished-at="2017-09-19T03:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.astro.view.demo.AppTest@1e88b3c]" name="init" is-config="true" duration-ms="9" started-at="2017-09-19T03:00:25Z" finished-at="2017-09-19T03:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateContent()[pri:0, instance:com.astro.view.demo.AppTest@1e88b3c]" name="validateContent" duration-ms="94846" started-at="2017-09-19T03:00:25Z" description="Validate show marked as Favourite is visible under Favourites Section" finished-at="2017-09-19T03:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContent -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.astro.view.demo.AppTest@1e88b3c]" name="close" is-config="true" duration-ms="2801" started-at="2017-09-19T03:02:00Z" finished-at="2017-09-19T03:02:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.astro.view.demo.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
